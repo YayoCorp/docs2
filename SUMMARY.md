@@ -8,7 +8,9 @@
 
 ## Purchasing Yayo Coin
 
-* [Untitled](purchasing-yayo-coin/untitled.md)
+* [Introduction](purchasing-yayo-coin/introduction.md)
+* [US](purchasing-yayo-coin/untitled.md)
+* [Non-US](purchasing-yayo-coin/non-us.md)
 
 ## Marketing Ops
 
