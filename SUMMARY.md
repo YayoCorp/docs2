@@ -9,7 +9,9 @@
 ## Purchasing Yayo Coin
 
 * [Introduction](purchasing-yayo-coin/introduction.md)
-* [US](purchasing-yayo-coin/untitled.md)
+* [US](purchasing-yayo-coin/untitled/README.md)
+  * [From ETH](purchasing-yayo-coin/untitled/from-eth.md)
+  * [From BNB](purchasing-yayo-coin/untitled/from-bnb.md)
 * [Non-US](purchasing-yayo-coin/non-us.md)
 
 ## Marketing Ops
