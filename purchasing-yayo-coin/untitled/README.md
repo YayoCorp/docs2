@@ -8,7 +8,7 @@ description: >-
 
 ## From BNB \(Binance\)
 
-This is going to be the best option US-based people have - Low fees, and short overall transaction time. The only requirement is that you're registered on Binance US with ID verification. 
+This is going to be the best option US-based people - low fees, and short overall transaction time. The only requirement is that you're registered on Binance US with ID verification. 
 
 ## From BTC \(Gemini and AscendEX\)
 
