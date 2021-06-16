@@ -12,7 +12,9 @@
 * [US](purchasing-yayo-coin/untitled/README.md)
   * [From ETH](purchasing-yayo-coin/untitled/from-eth.md)
   * [From BNB](purchasing-yayo-coin/untitled/from-bnb.md)
-* [Non-US](purchasing-yayo-coin/non-us.md)
+  * [From BTC](purchasing-yayo-coin/untitled/from-btc.md)
+* [Non-US](purchasing-yayo-coin/non-us/README.md)
+  * [From Matic](purchasing-yayo-coin/non-us/from-matic.md)
 
 ## Marketing Ops
 
