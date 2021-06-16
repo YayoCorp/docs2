@@ -1,5 +1,31 @@
 # From ETH
 
+This route is recommended as a universal option if you are not setup to use the other options.
+
+## Purchasing YAYO through Ethereum
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Pre-requisites</th>
+      <th style="text-align:left">Total Time</th>
+      <th style="text-align:left">Flat Fee</th>
+      <th style="text-align:left">% Fee</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>MetaMask wallet</p>
+        <p>Account on any US Exchange</p>
+      </td>
+      <td style="text-align:left">60m</td>
+      <td style="text-align:left">X Gwei ($Y)</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+
 ### 1. Buy ETH on the exchange of your choice
 
 Ethereum is available on all the standard exchanges such as [Coinbase](https://coinbase.com), [Binance](https://binance.us), [Kraken ](https://kraken.com)and [FTX](https://ftx.us).
@@ -51,8 +77,6 @@ Enter the amount of MATIC you would like to convert to YAYO and you will see you
 The purchased YAYO will now appear in your MetaMask wallet.
 
 {% hint style="warning" %}
-If you are unable to process the QuickSwap transaction, you may be out of Matic gas. Goto [matic.supply](https://matic.supply) to receive a free faucet.
+If you are unable to process the QuickSwap transaction, you may be out of Matic gas. Goto [matic.supply](https://matic.supply) to receive a faucet.
 {% endhint %}
-
-
 
