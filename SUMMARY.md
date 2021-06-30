@@ -10,9 +10,10 @@
 
 * [Introduction](purchasing-yayo-coin/introduction.md)
 * [US](purchasing-yayo-coin/untitled/README.md)
+  * [Buying ETH on MetaMask](purchasing-yayo-coin/untitled/buying-eth-on-metamask.md)
   * [From ETH on BSC](purchasing-yayo-coin/untitled/from-bnb.md)
   * [From BTC](purchasing-yayo-coin/untitled/from-btc.md)
-  * [From ETH](purchasing-yayo-coin/untitled/from-eth.md)
+  * [From ETH on Exchange](purchasing-yayo-coin/untitled/from-eth.md)
 * [Non-US](purchasing-yayo-coin/non-us/README.md)
   * [Direct Credit Card Purchase](purchasing-yayo-coin/non-us/direct-credit-card-purchase.md)
   * [From Matic](purchasing-yayo-coin/non-us/from-matic.md)
