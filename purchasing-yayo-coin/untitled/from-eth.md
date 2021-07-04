@@ -77,6 +77,6 @@ Enter the amount of MATIC you would like to convert to YAYO and you will see you
 The purchased YAYO will now appear in your MetaMask wallet.
 
 {% hint style="warning" %}
-If you are unable to process the QuickSwap transaction, you may be out of Matic gas. Goto [matic.supply](https://matic.supply) to receive a faucet.
+If you are unable to process the QuickSwap transaction, you may be out of Matic gas. Go to [matic.supply](https://matic.supply) to receive a faucet.
 {% endhint %}
 
