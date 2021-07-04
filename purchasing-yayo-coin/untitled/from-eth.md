@@ -66,7 +66,7 @@ A flat ETH swap fee will occur here, costing X Gwei \(~$Y USD\).
 
 Visit [QuickSwap.Exchange](https://quickswap.exchange/#/swap?outputCurrency=0xf7058856f405542cd660e8ce4751248F2d037f2B), and click **Connect to a Wallet**.  
   
-Goto the settings at the top right, and where it says "Slippage tolerance", enter 6.00%. This is just to ensure the transaction goes through smoothly.
+Go to the settings at the top right, and where it says "Slippage tolerance", enter 6.00%. This is just to ensure the transaction goes through smoothly.
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
