@@ -16,7 +16,7 @@
   * [From ETH on Exchange](purchasing-yayo-coin/untitled/from-eth.md)
 * [Non-US](purchasing-yayo-coin/non-us/README.md)
   * [Credit Card Purchase](purchasing-yayo-coin/non-us/direct-credit-card-purchase.md)
-  * [From Matic](purchasing-yayo-coin/non-us/from-matic.md)
+  * [From OKCoin or AscendEX](purchasing-yayo-coin/non-us/from-matic.md)
 
 ## Marketing Ops
 

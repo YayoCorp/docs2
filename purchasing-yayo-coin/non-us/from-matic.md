@@ -1,4 +1,4 @@
-# From Matic
+# From OKCoin or AscendEX
 
 ### 1. Buy MATIC on OKCoin or AscendEX
 
@@ -29,7 +29,7 @@ Enter the amount of MATIC you would like to convert to YAYO and you will see you
 
 ![](../../.gitbook/assets/image17.jpg)
 
-The purchased YAYO will not appear in your MetaMask wallet. 
+The purchased YAYO will now appear in your MetaMask wallet. 
 
 
 
